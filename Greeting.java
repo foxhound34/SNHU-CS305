@@ -1,8 +1,6 @@
-package com.snhu.Module21;
-
+package com.twk.restservice;
 
 public class Greeting {
-
 	private final long id;
 	private final String content;
 
